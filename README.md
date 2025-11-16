@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.youtube.com/watch?v=KqgyScOlvV8"><a href="https://ibb.co/fz2J34cs"><img src="https://i.ibb.co/sd27TyBZ/Makima-readme1.png" alt="Makima-readme1" border="0"></a>
+<a href="https://ibb.co/fz2J34cs"><img src="https://i.ibb.co/sd27TyBZ/Makima-readme1.png" alt="Makima-readme1" border="0"></a>
 
 # **MAKIMA : THE FULL FORK OF NEZUKO**
 
