@@ -1,5 +1,5 @@
 <div align="center">
-<a href='https://postimg.cc/cvRzCzH0' target='_blank'><img src='https://i.postimg.cc/Z52z7tzB/Makima-readme1.png' border='0' alt='Makima-readme1'></a>
+[![Makima](https://i.postimg.cc/Z52z7tzB/Makima-readme1.png)](https://postimg.cc/cvRzCzH0){ width=250 }
 
 # **MAKIMA : THE FULL FORK OF NEZUKO**
 
